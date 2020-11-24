@@ -3,9 +3,9 @@ import Vue from 'vue'
 import Router from 'vue-router'
 import HelloWorld from '@/components/HelloWorld'
 // 导入编写的组件
-import AppIndex from '../components/home/Appindex'
+import AppIndex from '../components/home/AppIndex'
 import Login from '../components/Login'
-import Home from '../components/home'
+import Home from '../components/Home'
 import LibraryIndex from '../components/library/LibraryIndex'
 
 Vue.use(Router)
