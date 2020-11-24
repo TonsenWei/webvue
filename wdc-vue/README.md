@@ -20,7 +20,7 @@ npm run build --report
 # run unit tests
 npm run unit
 
-# run all tests
+# run all tests test
 npm test
 ```
 
