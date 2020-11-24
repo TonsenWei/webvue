@@ -11,7 +11,7 @@
     <el-menu-item v-for="(item, i) in navList" :key="i" :index="item.name">
       {{ item.navItem }}
     </el-menu-item>
-    <a href="#nowhere" style="color: #222; float: right; padding: 20px">更多功能</a
+    <a href="#nowhere" style="color: #222; float: right; padding: 20px">更多功能gittest</a
     >
     <i
       class="el-icon-menu"
